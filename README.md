@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Johannes 👋
 
-<!--
-**johannes-bln/johannes-bln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> iOS Developer / Swift Fullstack Developer with ❤️ for clean code and innovative apps.
 
-Here are some ideas to get you started:
+I build high-performance, fast, easy to use & scalable iOS/macOS and server applications using modern Swift. Started with smal Android projects in 2016; focused on Swift since 2019.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Area                         | Expertise & Tools                                                           |
+|------------------------------|-----------------------------------------------------------------------------|
+| **UI & Frameworks**          | SwiftUI, UIKit(at the beginning), Swift 6                                   |
+| **Concurrency**   | Async/Await (Swift Concurrency), Combine, etc.                               |
+| **Design Pattern**  | MVVM (Model View ViewModel)         |
+| **Networking**               | URLSession, Alamofire, REST APIs, API integration                            |
+| **Server-Side Swift**        | Vapor, SwiftNIO, SQL; Docker (for testing on Raspberry Pi)                  |
+| **Container & Deployment**   | Docker, GitHub Actions                                                      |
+| **Testing & Quality**        | SwiftLint,                               |
+| **Projects & Features**      | Abfahrten (live departures, routing, sign in with Apple, to save favorits across devices)  |
+| **Some other Tools I use**      | Brew, Warp Terminal, Github CLI,  |
+
+**Highlights & Best Practices**  
+- Inline documentation (DocC) and README (Markdown) snippets  
+- DRY (Don't Repeat yourself!)
+- Easy to re-use APIs, thorough docs and guides
