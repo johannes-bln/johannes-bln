@@ -11,7 +11,7 @@ I build high-performance, fast, easy to use & scalable iOS/macOS and server appl
 | **Design Pattern**  | MVVM (Model View ViewModel)         |
 | **Networking**               | URLSession, Alamofire, REST APIs, API integration                            |
 | **Server-Side Swift**        | Vapor, SwiftNIO, SQL; Docker (for testing on Raspberry Pi)                  |
-| **Container & Deployment**   | Docker, GitHub Actions                                                      |
+| **Container & Deployment**   | Docker, GitHub                                                       |
 | **Testing & Quality**        | SwiftLint,                               |
 | **Projects & Features**      | Abfahrten (live departures, routing, sign in with Apple, to save favorits across devices)  |
 | **Some other Tools I use**      | Brew, Warp Terminal, Github CLI,  |
