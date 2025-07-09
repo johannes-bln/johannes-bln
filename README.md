@@ -56,6 +56,7 @@ I build **high-performance, fast, easy-to-use & scalable** iOS/macOS and server 
 
 <div align="center">
   
-  *"Clean code is not written by following a set of rules. Clean code is written by programmers who care."* - Robert C. Martin
+  *"Clean code is not written by following a set of rules."* - Robert C. Martin
+* Clean code is written by programmers who care. *
   
 </div>
